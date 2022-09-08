@@ -1,6 +1,6 @@
-# Pandas Basics
+# Pandas Learning
 
-Pandas basics to clean data, do basic data preprocessing and handle quantitative and qualitative data.
+Pandas learning to clean data, do basic data preprocessing and handle quantitative and qualitative data.
 
 <p align="center">
 <img src="https://miro.medium.com/max/440/1*08ydeNH444MjwIkYr5HdoA.png">
